@@ -1,0 +1,17 @@
+body {
+  background-color: rgba(0, 0, 0, 0.814);
+}
+
+.navbar {
+  background-color: white;
+}
+
+.card {
+  background-color: black;
+  color: white;
+}
+
+#firstImage {
+  width: 30%;
+  height: 30%;
+}
