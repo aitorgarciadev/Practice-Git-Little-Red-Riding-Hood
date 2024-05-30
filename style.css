@@ -15,3 +15,7 @@ body {
   width: 30%;
   height: 30%;
 }
+
+#endText {
+  font-size: 50px;
+}
